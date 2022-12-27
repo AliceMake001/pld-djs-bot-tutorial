@@ -1,0 +1,4 @@
+#可以忽略多餘的檔案
+node_modules
+yarn.lock
+.env
