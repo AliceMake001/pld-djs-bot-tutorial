@@ -1,4 +1,4 @@
-#可以忽略多餘的檔案
+#可以忽略多餘的檔案,不要上傳
 node_modules
 yarn.lock
 .env
